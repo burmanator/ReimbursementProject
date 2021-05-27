@@ -1,0 +1,190 @@
+.App{
+  height: 650px;
+  margin: 5% auto auto;
+  width: 50%;
+  /*border: 1px solid none;*/
+  border-radius: 1rem;
+  box-shadow: 0 4px 4px rgba(0,0,0,0.1);
+  padding: 10px;
+  font-family:  "Segoe UI",Arial,sans-serif;
+  text-align: center;
+  font-size:large;
+
+}
+
+a{
+  display: block;
+  font-size: small;
+  float: left;
+  margin-bottom: 2rem;
+}
+
+button{
+  background-color: limegreen;
+  color: white;
+  margin: 0.5rem 0.5rem;
+  border-radius: 0.5rem;
+  border: none;
+  padding: 0.4rem 1rem;
+  text-decoration: none;
+  font-size: small;
+  display: flex;
+
+}
+
+button:hover{
+  background-color: mediumseagreen;
+}
+
+label{
+  font-family: Arial;
+  margin: 0.2rem 0.2rem;
+  display: flex;
+  font-size: small;
+}
+
+input{
+  margin: 0.2rem 0.2rem;
+  padding: 0.3rem;
+  border-color: white;
+  border-radius: 0.2rem;
+  outline: none;
+  font-size: medium;
+  display: flex;
+}
+
+h1{
+text-align: center;
+}
+
+.link{
+  color: white;
+  background-color: limegreen;
+  margin: 1rem 1rem;
+  border-color: dimgray;
+  border-radius: 0.5rem;
+  padding: 0.4rem 1rem;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: larger;
+  display: flex;
+  justify-content: center;
+  width: 90%;
+}
+
+.link:hover{
+  /*background-color: lightgreen;*/
+  /*color: white;*/
+  background-color: mediumseagreen;
+}
+
+form{
+  width: 80%;
+  margin: 10% auto auto;
+  border-radius: 1rem;
+  border-color: black;
+  box-shadow: 0 4px 4px rgba(0,0,0,0.1);
+  display: block;
+  padding: 0.5rem 1rem;
+}
+.form-input{
+  text-align: left;
+}
+.forgot-password-form{
+  width: 50%;
+}
+
+.forgot-password-form-input{
+  margin-top: 10%;
+  margin-left: 30%;
+}
+.close-button{
+  background-color: limegreen;
+  color: white;
+  float: left;
+  margin-right: 2rem;
+  text-align: center;
+}
+.close-button:hover {
+  background-color: mediumseagreen;
+  color: white;
+}
+
+.delete{
+  display: inline;
+  float: right;
+  width: auto;
+  font-size: small;
+  /*margin-top*/
+  margin-top: -0.5rem;
+}
+
+.view-pending{
+  padding: 1rem;
+  text-align: left;
+  /*margin-left: 1rem;*/
+  font-size: small;
+  /*box-shadow: 1px 1px rgba(0,0,0,0.09);*/
+}
+.view-pending:hover{
+  /*box-shadow: 1rem 1rem rgba(0,0,0,0.3);*/
+  /*font-size: large;*/
+  font-weight: bold;
+}
+
+.menu-button{
+  background-image: url("https://unsplash.com/photos/gMsnXqILjp4");
+  display: inline-block;
+  margin-top: 5%;
+  height: 10rem;
+  font-size: large;
+}
+
+.update-form{
+  margin: 1rem;
+  width: 80%;
+}
+
+.user-profile{
+  margin-top: 0rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.filter{
+  display: block;
+  float: right;
+}
+
+.view-reimbursement{
+  display: block;
+
+}
+
+.scroll{
+  height: 35rem;
+  overflow: scroll;
+  /*overflow: hidden;*/
+}
+
+.review-buttons{
+  display: flex;
+}
+
+.view{
+  display: grid;
+  text-align: left;
+}
+
+select {
+  margin: 1rem 1rem;
+  text-align: center;
+  display: block;
+  justify-content: center;
+  padding: 0.5rem 0.5rem;
+  border-radius: 0.5rem;
+}
+
+
+th{
+  font-size: small;
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submit New Reimbursement Request</title>
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<main>
+    <head>Submit a new Reimbursement Request</head>
+    <section>
+        <form action="/NewSubmission" method="post">
+            <lable>Reimbursement for: </lable>
+            <input name="title"placeholder="ex: plane tickets" type="text">
+            <label>Reimbursement amount: </label>
+            <input name="amount" placeholder="ex: 900 for $900" type="number">
+            <label>Date of purchase/Event</label>
+            <input name="date" type="date">
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+</main>
+<script src="../index.js"></script>
+</body>
+</html>

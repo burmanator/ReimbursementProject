@@ -1,0 +1,79 @@
+2021-05-17 00:00:49,182 INFO c.e.d.EmployeeDao [qtp355115154-24] david successfully logged in
+2021-05-17 00:00:49,186 INFO c.e.c.EmployeeController [qtp355115154-24] david logged in successfully
+2021-05-17 00:01:16,100 INFO c.e.d.ReimbursementDao [qtp355115154-23] david submitted a reimbursement for Spotify of an amount: 12.0
+2021-05-17 00:02:31,334 INFO c.e.d.AdminDao [qtp355115154-23] david successfully logged in
+2021-05-17 08:14:38,275 INFO c.e.d.EmployeeDao [qtp355115154-21] david failed an attempt to log in
+2021-05-17 08:14:38,275 INFO c.e.d.EmployeeDao [qtp355115154-20] david failed an attempt to log in
+2021-05-17 08:14:38,275 INFO c.e.d.EmployeeDao [qtp355115154-25] david failed an attempt to log in
+2021-05-17 08:14:38,283 INFO c.e.c.EmployeeController [qtp355115154-20] david failed an attempt to log in
+2021-05-17 08:14:38,284 INFO c.e.c.EmployeeController [qtp355115154-21] david failed an attempt to log in
+2021-05-17 08:14:38,285 INFO c.e.c.EmployeeController [qtp355115154-25] david failed an attempt to log in
+2021-05-17 08:14:49,325 INFO c.e.d.EmployeeDao [qtp355115154-23] david successfully logged in
+2021-05-17 08:14:49,326 INFO c.e.c.EmployeeController [qtp355115154-23] david logged in successfully
+2021-05-17 08:15:32,610 INFO c.e.d.EmployeeDao [qtp355115154-23] forrestBest successfully logged in
+2021-05-17 08:15:32,610 INFO c.e.c.EmployeeController [qtp355115154-23] forrestBest logged in successfully
+2021-05-17 08:16:34,945 INFO c.e.d.ReimbursementDao [qtp355115154-23] forrestBest submitted a reimbursement for New Bat of an amount: 50.0
+2021-05-17 08:24:37,068 INFO c.e.d.ReimbursementDao [main] username submitted a reimbursement for title of an amount: 1.0
+2021-05-17 08:24:37,360 INFO c.e.d.ReimbursementDao [main] test1 submitted a reimbursement for title of an amount: 4.0
+2021-05-17 08:24:37,370 INFO c.e.d.ReimbursementDao [main] test1 submitted a reimbursement for title of an amount: 4.0
+2021-05-17 08:24:37,382 INFO c.e.d.ReimbursementDao [main] test1 submitted a reimbursement for title of an amount: 4.0
+2021-05-17 08:24:37,454 INFO c.e.d.ReimbursementDao [main] username submitted a reimbursement for title of an amount: 1.0
+2021-05-17 08:24:37,530 INFO c.e.d.AdminDao [main] Miguel failed to log in
+2021-05-17 08:24:37,797 INFO c.e.d.AdminDao [main] A new account was created for adminUpdateUsername
+2021-05-17 08:24:37,810 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:24:37,876 INFO c.e.d.AdminDao [main] admin successfully logged in
+2021-05-17 08:24:37,895 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:24:37,903 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:24:37,930 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:24:37,935 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:24:49,891 INFO c.e.d.ReimbursementDao [main] username submitted a reimbursement for title of an amount: 1.0
+2021-05-17 08:24:50,243 INFO c.e.d.ReimbursementDao [main] test1 submitted a reimbursement for title of an amount: 4.0
+2021-05-17 08:24:50,264 INFO c.e.d.ReimbursementDao [main] test1 submitted a reimbursement for title of an amount: 4.0
+2021-05-17 08:24:50,283 INFO c.e.d.ReimbursementDao [main] test1 submitted a reimbursement for title of an amount: 4.0
+2021-05-17 08:24:50,392 INFO c.e.d.ReimbursementDao [main] username submitted a reimbursement for title of an amount: 1.0
+2021-05-17 08:24:50,485 INFO c.e.d.AdminDao [main] Miguel failed to log in
+2021-05-17 08:24:50,812 INFO c.e.d.AdminDao [main] A new account was created for adminUpdateUsername
+2021-05-17 08:24:50,828 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:24:50,853 INFO c.e.d.AdminDao [main] admin successfully logged in
+2021-05-17 08:24:50,986 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:24:51,010 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:24:51,050 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:24:51,154 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:25:00,470 INFO c.e.d.ReimbursementDao [main] username submitted a reimbursement for title of an amount: 1.0
+2021-05-17 08:25:00,742 INFO c.e.d.ReimbursementDao [main] test1 submitted a reimbursement for title of an amount: 4.0
+2021-05-17 08:25:00,765 INFO c.e.d.ReimbursementDao [main] test1 submitted a reimbursement for title of an amount: 4.0
+2021-05-17 08:25:00,781 INFO c.e.d.ReimbursementDao [main] test1 submitted a reimbursement for title of an amount: 4.0
+2021-05-17 08:25:00,872 INFO c.e.d.ReimbursementDao [main] username submitted a reimbursement for title of an amount: 1.0
+2021-05-17 08:25:00,937 INFO c.e.d.AdminDao [main] Miguel failed to log in
+2021-05-17 08:25:01,229 INFO c.e.d.AdminDao [main] A new account was created for adminUpdateUsername
+2021-05-17 08:25:01,254 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:25:01,290 INFO c.e.d.AdminDao [main] admin successfully logged in
+2021-05-17 08:25:01,325 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:25:01,370 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:25:01,393 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:25:01,404 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:32:27,621 INFO c.e.d.EmployeeDao [qtp355115154-26] david successfully logged in
+2021-05-17 08:32:27,625 INFO c.e.c.EmployeeController [qtp355115154-26] david logged in successfully
+2021-05-17 08:32:46,483 INFO c.e.d.ReimbursementDao [qtp355115154-27] david submitted a reimbursement for Intellij Sub of an amount: 50.0
+2021-05-17 08:33:43,479 INFO c.e.d.AdminDao [qtp355115154-27] david successfully logged in
+2021-05-17 08:35:41,450 INFO c.e.c.EmployeeController [qtp355115154-24] Adam account created as an employee
+2021-05-17 08:36:17,702 INFO c.e.d.EmployeeDao [qtp355115154-21] Adam successfully logged in
+2021-05-17 08:36:17,702 INFO c.e.c.EmployeeController [qtp355115154-21] Adam logged in successfully
+2021-05-17 08:36:40,570 INFO c.e.d.AdminDao [qtp355115154-21] david successfully logged in
+2021-05-17 08:37:36,100 INFO c.e.d.EmployeeDao [qtp355115154-27] Adam successfully logged in
+2021-05-17 08:37:36,100 INFO c.e.c.EmployeeController [qtp355115154-27] Adam logged in successfully
+2021-05-17 08:37:55,711 INFO c.e.d.ReimbursementDao [main] username submitted a reimbursement for title of an amount: 1.0
+2021-05-17 08:37:56,016 INFO c.e.d.ReimbursementDao [main] test1 submitted a reimbursement for title of an amount: 4.0
+2021-05-17 08:37:56,024 INFO c.e.d.ReimbursementDao [main] test1 submitted a reimbursement for title of an amount: 4.0
+2021-05-17 08:37:56,093 INFO c.e.d.ReimbursementDao [main] test1 submitted a reimbursement for title of an amount: 4.0
+2021-05-17 08:37:56,243 INFO c.e.d.ReimbursementDao [main] username submitted a reimbursement for title of an amount: 1.0
+2021-05-17 08:37:56,492 INFO c.e.d.AdminDao [main] Miguel failed to log in
+2021-05-17 08:37:57,124 INFO c.e.d.AdminDao [main] A new account was created for adminUpdateUsername
+2021-05-17 08:37:57,153 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:37:57,184 INFO c.e.d.AdminDao [main] admin successfully logged in
+2021-05-17 08:37:57,240 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:37:57,274 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:37:57,325 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 08:37:57,382 INFO c.e.d.AdminDao [main] A new account was created for admin
+2021-05-17 09:15:32,277 INFO c.e.d.EmployeeDao [qtp355115154-25] david successfully logged in
+2021-05-17 09:15:32,281 INFO c.e.c.EmployeeController [qtp355115154-25] david logged in successfully
